@@ -1,0 +1,56 @@
+/* Dashboard.css */
+.dashboard {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+  
+.dashboard-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+table {
+    margin: auto;
+}
+  
+.stock-table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+  
+.stock-table th, .stock-table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+  
+.stock-table th {
+    font-weight: bold;
+}
+
+td, th {
+    padding-right: 60px;
+}
+
+td {
+    border-bottom: 1px solid black;
+}
+
+.change {
+    font-weight: bold;
+}
+  
+.positive {
+    color: green;
+}
+  
+.negative {
+    color: red;
+}
+  
+.stock-link:hover {
+    background-color: yellow;
+}
+  
