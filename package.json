@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/misssibere/React-Router-Stock-App.git",
-  "name": "React-Router-Stock-App",
+  "name": "stock-react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
